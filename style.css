@@ -48,3 +48,87 @@ body {
   margin-left: 70%;
   margin-top: -264px;
 }
+/* about */
+.img2 {
+  margin-top: 70px;
+  margin-left: 25%;
+}
+.text-1 {
+  margin-top: -400px;
+  font-weight: 600;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  margin-left: 33%;
+  color: #fcfcfc;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+.text-2 {
+  font-weight: 600;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  margin-left: 33%;
+  color: #fcfcfc;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+.text-3 {
+  font-weight: 600;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  margin-left: 33%;
+  color: #fcfcfc;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+.text-4 {
+  font-weight: 600;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  margin-left: 33%;
+  color: #fcfcfc;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+.bio {
+  font-weight: 600;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: border-box;
+  border-bottom: solid white 2px;
+  margin-left: 33%;
+  color: #fcfcfc;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-decoration: inherit;
+}
+.icons {
+  display: flex;
+  flex-direction: column;
+  margin-top: -24.9%;
+  margin-left: 240px;
+  gap: 70px;
+}
+/* PORTFOLIO */
+.PORTFOLIO {
+  margin-top: 350px;
+  margin-bottom: 100px;
+  border: none;
+}
+.PORTFOLIO2 {
+  margin-top: 40px;
+  margin-bottom: 100px;
+  border: none;
+}
+.PORTFOLIO-text {
+  margin-bottom: 70px;
+  color: #fcfcfc;
+}
