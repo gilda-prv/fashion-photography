@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+/* logo */
+.logo {
+  width: 180px;
+  margin-top: 30px;
+}
+/* navbar */
+.nav-link {
+  color: white;
+}
+.navbar-nav .nav-link.active {
+  color: white;
+}
+.navbar-nav {
+  margin: 0 auto;
+  margin-top: 18px;
+  font-size: 18px;
+  gap: 25px;
+}
+.img1-text {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+}
+/* card img */
+.cards {
+  margin-top: 140px;
+}
+.photos img {
+  width: 25%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
+.p1 {
+  padding-left: 80px;
+  margin-top: -70px;
+  filter: drop-shadow(1px 11px 4px #000);
+}
+.p3 {
+  margin-top: -50px;
+  padding-left: -40px;
+}
+.p4 {
+  margin-left: 70%;
+  margin-top: -264px;
+}
